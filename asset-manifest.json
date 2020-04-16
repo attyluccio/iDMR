@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/attyluccio/iDMR/static/css/main.357b781c.chunk.css",
+    "main.js": "/attyluccio/iDMR/static/js/main.88bc0394.chunk.js",
+    "main.js.map": "/attyluccio/iDMR/static/js/main.88bc0394.chunk.js.map",
+    "runtime-main.js": "/attyluccio/iDMR/static/js/runtime-main.fab38c22.js",
+    "runtime-main.js.map": "/attyluccio/iDMR/static/js/runtime-main.fab38c22.js.map",
+    "static/js/2.1fec61fd.chunk.js": "/attyluccio/iDMR/static/js/2.1fec61fd.chunk.js",
+    "static/js/2.1fec61fd.chunk.js.map": "/attyluccio/iDMR/static/js/2.1fec61fd.chunk.js.map",
+    "index.html": "/attyluccio/iDMR/index.html",
+    "precache-manifest.20545372e287c297c2ce8b59b60793f8.js": "/attyluccio/iDMR/precache-manifest.20545372e287c297c2ce8b59b60793f8.js",
+    "service-worker.js": "/attyluccio/iDMR/service-worker.js",
+    "static/css/main.357b781c.chunk.css.map": "/attyluccio/iDMR/static/css/main.357b781c.chunk.css.map",
+    "static/js/2.1fec61fd.chunk.js.LICENSE.txt": "/attyluccio/iDMR/static/js/2.1fec61fd.chunk.js.LICENSE.txt",
+    "static/media/imdb.svg": "/attyluccio/iDMR/static/media/imdb.15bf158f.svg",
+    "static/media/poster-na.png": "/attyluccio/iDMR/static/media/poster-na.9c0c495b.png",
+    "static/media/rt-certified.png": "/attyluccio/iDMR/static/media/rt-certified.991a1697.png",
+    "static/media/rt-rotten.png": "/attyluccio/iDMR/static/media/rt-rotten.a8617726.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fab38c22.js",
+    "static/js/2.1fec61fd.chunk.js",
+    "static/css/main.357b781c.chunk.css",
+    "static/js/main.88bc0394.chunk.js"
+  ]
+}
