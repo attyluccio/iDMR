@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/iDMR/static/css/main.357b781c.chunk.css",
-    "main.js": "/iDMR/static/js/main.74eed213.chunk.js",
-    "main.js.map": "/iDMR/static/js/main.74eed213.chunk.js.map",
+    "main.js": "/iDMR/static/js/main.a461f1ba.chunk.js",
+    "main.js.map": "/iDMR/static/js/main.a461f1ba.chunk.js.map",
     "runtime-main.js": "/iDMR/static/js/runtime-main.e7f44bac.js",
     "runtime-main.js.map": "/iDMR/static/js/runtime-main.e7f44bac.js.map",
     "static/js/2.1fec61fd.chunk.js": "/iDMR/static/js/2.1fec61fd.chunk.js",
     "static/js/2.1fec61fd.chunk.js.map": "/iDMR/static/js/2.1fec61fd.chunk.js.map",
     "index.html": "/iDMR/index.html",
-    "precache-manifest.28af4ff72e582fe5ed5f576376f01da4.js": "/iDMR/precache-manifest.28af4ff72e582fe5ed5f576376f01da4.js",
+    "precache-manifest.57c39ac82d8da0e3eaea6e1ea3b707ea.js": "/iDMR/precache-manifest.57c39ac82d8da0e3eaea6e1ea3b707ea.js",
     "service-worker.js": "/iDMR/service-worker.js",
     "static/css/main.357b781c.chunk.css.map": "/iDMR/static/css/main.357b781c.chunk.css.map",
     "static/js/2.1fec61fd.chunk.js.LICENSE.txt": "/iDMR/static/js/2.1fec61fd.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e7f44bac.js",
     "static/js/2.1fec61fd.chunk.js",
     "static/css/main.357b781c.chunk.css",
-    "static/js/main.74eed213.chunk.js"
+    "static/js/main.a461f1ba.chunk.js"
   ]
 }
